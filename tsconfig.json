@@ -8,6 +8,7 @@
         "jsx": "react"
     },
     "files": [
-        "./src/index.tsx"
+        "./src/index.tsx",
+        "./src/components/DynamicScroll.tsx"
     ]
 }
