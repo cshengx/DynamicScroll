@@ -10,5 +10,5 @@
     "files": [
         "./src/index.tsx",
         "./src/components/DynamicScroll.tsx"
-    ]  
+    ]
 }
